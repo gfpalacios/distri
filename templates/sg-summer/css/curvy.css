@@ -1,0 +1,124 @@
+div#tabarea_l {
+	background: url(../images/mw_header_l_b.gif) 0 0 no-repeat;
+	padding-left: 14px;
+}
+
+div#footer_width {
+	margin:0 9px;
+}
+
+
+div#footer {
+	background: transparent url(../images/mw_footer_b.gif) 0 100% repeat-x;
+}
+
+div#footer_l {
+	background: transparent url(../images/mw_footer_b_l.gif) 0 0 no-repeat;
+}
+
+div#footer_r {
+	background: transparent url(../images/mw_footer_b_r.gif) 100% 0 no-repeat;
+}
+
+div.module div {
+	background: url(../images/mw_box_bl.png) 0 100% no-repeat;
+}
+
+div.module {
+	background: url(../images/mw_box_br.png) 100% 100% no-repeat;
+}
+
+div.module div div div {
+	background: url(../images/mw_box_tl.png) 0 0 no-repeat;
+}
+
+div.module div div {
+	background: url(../images/mw_box_tr.png) 100% 0 no-repeat;
+}
+
+div#tabarea {
+	background: transparent url(../images/mw_header_b.gif) 0 0 repeat-x;
+	margin: 0 8px;
+}
+
+div#tabarea_r {
+	height: 42px;
+	background: url(../images/mw_header_r_b.gif) 100% 0 no-repeat;
+	padding-right: 1px;
+}
+
+td.greyline {
+  width: 20px;
+  vertical-align:bottom;
+  text-align:left;
+  background: url(../images/mw_line_grey.png) 50% 0 repeat-y;
+}
+
+td.greyline .greyline_bottom {
+  width: 20px;
+  background: url(../images/mw_line_grey_bottom.png) 50% 0 no-repeat;
+  height:50px;
+}
+
+td.pill_l {
+  background: url(../images/mw_menu_cap_l.png) no-repeat;
+  width:  16px;
+  height: 32px;
+}
+td.pill_r {
+  background: url(../images/mw_menu_cap_r.png) no-repeat;
+  width:  16px;
+  height: 32px;
+}
+
+#pillmenu ul li {
+	float: left;
+	background: url(../images/mw_menu_cap_r.png) top right no-repeat;
+	margin: 0;
+	padding: 0;
+}
+
+div#leftbg {
+	background: transparent url(../images/mw_shadow_l.gif) 0 0 repeat-y;
+}
+
+div#rightbg {
+	background: url(../images/mw_shadow_r.gif) 100% 0% repeat-y;
+
+}
+
+#sgnewsflash {
+	height:118px;
+	margin:0 0 10px 0;
+	width:100%;
+	overflow:hidden;
+}
+#sgnewsflash .left_bg {
+	background: transparent url(../images/news_left_bg.gif) top left no-repeat;
+	height:118px;
+	width:20px;
+}
+#sgnewsflash .middle_bg {
+	background: transparent url(../images/news_middle_bg.gif) top left repeat-x;
+	height:118px;
+}
+#sgnewsflash .right_bg {
+	background: transparent url(../images/news_right_bg.gif) top right no-repeat;
+	height:118px;
+	width:20px;
+
+}
+
+#search {
+	background: url(../images/search_bg.png) no-repeat top left;
+	float: right;
+	width:206px;
+	height:30px;
+	margin-top: 0px;
+	padding:0px;
+	text-align:center;
+}
+
+#pillmenu a {
+  background: url(../images/mw_menu_cap_l.png) top left no-repeat;
+ }

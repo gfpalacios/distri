@@ -1,0 +1,5 @@
+<?if( $sg == 'banner' ):?>
+
+<?else:?>
+ 	
+ <?endif;?>

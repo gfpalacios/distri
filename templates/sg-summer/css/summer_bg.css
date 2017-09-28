@@ -1,0 +1,258 @@
+div.center {
+  text-align: center;
+  background: url(../images/summer_background.jpg) no-repeat scroll center top transparent;
+  margin:0;
+  padding:0;
+  margin-left: 10%;
+  margin-top: 8px;
+  width:80%;
+  overflow:hidden;
+}
+
+#nav .navi a span {
+	color:#7E2217;
+}
+
+#nav .navi a:hover span {
+	color:#ff8800;
+}
+
+#nav li a.topalink , #nav li a.topalink:link {
+	color:#ff8800;
+}
+
+/* ===================================== TOP ===================================== */
+
+h2, .contentheading {
+	color: #999;
+}
+
+
+#whitebox {
+	background-color:#ffffff;
+}
+
+.bannerfooter_text {
+	padding: 4px;
+	font-size: 11px;
+	background-color: #ffffff;
+	text-align: right;
+}
+
+.inputbox {
+	color:#7E2217;
+}
+
+.column_separator {
+	border-left: 1px dashed #7E2217;
+	padding-left: 10px;
+}
+
+/* ========================================================================== */
+div.module h3 {
+	font-family: Tahoma, Helvetica, Arial, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #666;
+	margin: 0px 0px 10px 0px;
+	padding-left: 5px;
+	padding-bottom: 2px;
+}
+
+input.button {
+   background: transparent;
+   border: 1px solid #cccccc;
+   font-size: 12px; 
+   font-weight: bold;
+   color : #666666;
+   font-family: Tahoma, Arial, Helvetica, sans-serif;
+}
+
+a:link, a:visited {
+	color: #7E2217;
+}
+
+a:hover {
+	color: #ff8800;
+}
+
+#pillmenu a:hover {
+  color: #ff8800;
+}
+
+#pillmenu a#active_menu-nav {
+  color: #ff8800;
+}
+
+#pillmenu a#active_menu-nav:hover {
+  color: #ff8800;
+}
+
+#pillmenu a {
+  font-family: Tahoma, Arial, Helvetica, sans-serif;
+  font-weight: bold;
+	float:left;
+  display:block;
+  height: 32px;
+  line-height: 24px;
+  padding: 4px 16px;
+  color: #7E2217;
+  text-decoration: none;
+}
+
+table.contentpane ul ,table.contentpaneopen ul, table.nopad ul {
+	list-style-image: url(../images/indent1.gif);
+}
+
+input#mod_login_username,
+input#mod_login_password {
+	width: 116px;
+	border:1px solid #cccccc;
+}
+
+strong {
+	color:#666;
+	text-align:justify;
+}
+
+h3, .componentheading, table.moduletable th {
+  color: #7E2217;
+}
+
+#page_bg {
+	background: #f0f8e4 url(../images/bg.png) repeat-x fixed left bottom;
+}
+
+#toppathway td.leftbg {
+	width:10px;
+	background: url(../images/pathway_left_bg1.png) no-repeat;
+	height:28px;
+}
+#toppathway td.rightbg {
+	color:#666666;
+	text-align:left;
+	height:28px;
+}
+
+a.readon {
+	margin-top: 10px;
+	display: block;
+	float: left;
+	background: url(../images/mw_readon.gif) top right no-repeat;
+	padding-right: 20px;
+	line-height: 14px;
+	height: 16px;
+}
+
+div.module ul {
+	list-style-image:none;
+	list-style-position:outside;
+	list-style-type:none;
+	margin:0;
+	padding:0;
+}
+
+div.module ul li {
+	margin:5px 0;
+	padding:0 0 0 20px;
+}
+
+div.module ul li ul {
+	margin: 0px 0;
+	padding-left: 0px;
+}
+
+.tool-title {
+	padding: 0;
+	margin: 0;
+	font-size: 100%;
+	font-weight: bold;
+	margin-top: -15px;
+	padding-top: 15px;
+	padding-bottom: 5px;
+	background: url(../../system/images/selector-arrow.png) no-repeat;
+}
+
+
+/* ******************** */
+.sectiontableentry1 {
+  vertical-align   : top;
+  padding          : 0 3px;
+  background       : #fefefe;
+  border-bottom    : 1px solid #ffffff;
+  line-height      : 16px;
+
+}
+.sectiontableentry2 {
+  vertical-align   : top;
+  padding          : 0 3px;
+  border-bottom    : 1px solid #ffffff;
+  background       : #fefefe;
+  line-height      : 16px;
+}
+
+/* Polls */
+.poll {
+	color : #333333;
+	line-height : 12px;
+	font-weight: normal;
+      
+}
+
+.poll tr td div {
+	text-align:center;      
+}
+
+.pollstableborder{
+  border-color     : #999999;
+}
+/* ******************** */
+
+/* -------------------------- */
+a.sgfooter:link, a.sgfooter:visited {
+	color			: #333;
+	font-size		: 11px;
+	font-family: Verdana,Arial,Helvetica,sans-serif;
+	font-weight: normal;
+	text-decoration:none;
+}
+a.sgfooter:hover {
+	color			: #333;
+	font-family: Verdana,Arial,Helvetica,sans-serif;
+	font-weight: normal;
+	text-decoration:none;
+}
+.sgf {
+font-size: 11px;
+font-family: Verdana,Arial,Helvetica,sans-serif;
+color: #333;
+text-decoration:none;
+}
+.sgf1 {
+font-size: 11px;
+font-family: Verdana,Arial,Helvetica,sans-serif;
+color: #333;
+text-align:left;
+}
+
+a.sglink:link, a.sglink:visited {
+	color			: #333;
+	font-size		: 11px;
+	font-family: Verdana,Arial,Helvetica,sans-serif;
+	font-weight: normal;	
+	text-decoration:none;
+}
+a.sglink:hover {
+	color			: #333;
+	font-family: Verdana,Arial,Helvetica,sans-serif;
+	font-weight: normal;	
+	text-decoration:none;
+}
+
+.footer {
+	font-family: Verdana,Arial,Helvetica,sans-serif;
+	font-size		: 11px;
+	padding:10px;
+	margin:0;
+	text-align:center;
+}

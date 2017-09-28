@@ -1,0 +1,25 @@
+/* IE ONLY CSS */
+
+div.module_menu div div div {
+	width: 100%;
+}
+
+div#footer {
+	width: 100%;
+}
+
+div#whitebox_b {
+	width: 100%;
+}
+
+#nav li ul ul { /* third-and-above-level lists */
+	margin: -1em 0 0 200px;
+}
+
+#maincolumn, #maincolumn_full {
+	margin-left: 20%;
+	padding-left: 15px;
+	width: 75% !important;
+}
+
+

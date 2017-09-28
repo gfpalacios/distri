@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<mosinstall type="template" version="4.5.2">
+  <name>siteground36</name>
+  <creationDate>10/2006</creationDate>
+  <author>SiteGround.com</author>
+  <copyright>SG TOS</copyright>
+  <authorEmail>templates@siteground.com</authorEmail>
+  <authorUrl>www.siteground.com</authorUrl>
+  <version>1.0</version>
+  <description>
+This Joomla Template is designed by SiteGround.com and can be used free of charge. The template is suitable for personal and business Joomla sites. It can be used with many popular modules and components for Joomla. At www.siteground.com you can find more great looking free Joomla templates.
+  </description>
+    <files>
+		<filename>index.php</filename>
+		<filename>template_thumbnail.png</filename>
+		<filename>templates.php</filename>
+	</files>
+	<images>
+		<filename>images/arrow_menu.jpg</filename>
+		<filename>images/banner_01.jpg</filename>
+		<filename>images/banner_02.jpg</filename>
+		<filename>images/menu.gif</filename>
+		<filename>images/menuh.gif</filename>
+		<filename>images/siteground_01.jpg</filename>
+		<filename>images/siteground_02.jpg</filename>
+		<filename>images/siteground_03.jpg</filename>
+		<filename>images/siteground_04.jpg</filename>
+		<filename>images/siteground_05.jpg</filename>
+		<filename>images/siteground_06.jpg</filename>
+		<filename>images/siteground_07.jpg</filename>		
+		</images>
+	<css>
+		<filename>css/template_css.css</filename>
+	</css>
+</mosinstall>

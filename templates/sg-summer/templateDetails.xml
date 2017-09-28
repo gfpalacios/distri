@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<mosinstall type="template" version="1.0">
+  <name>sg-summer</name>
+  <creationDate>11/2007</creationDate>
+  <author>SiteGround.com</author>
+  <copyright>SG TOS</copyright>
+  <authorEmail>templates@siteground.com</authorEmail>
+  <authorUrl>www.siteground.com</authorUrl>
+  <version>1.0.0</version>
+  <description>
+This Joomla Template is designed by SiteGround.com and can be used free of charge. The template is suitable for personal and business Joomla sites. It can be used with many popular modules and components for Joomla. At www.siteground.com you can find more great looking free Joomla templates.
+  </description>
+	<files>
+		<filename>index.html</filename>
+		<filename>index.php</filename>
+		<filename>template_thumbnail.png</filename>
+		<filename>sgmenu.php</filename>
+		<filename>templates.php</filename>
+	</files>
+	<images>
+		<filename>images/arrow.png</filename>
+		<filename>images/banner_01.jpg</filename>
+		<filename>images/banner_02.jpg</filename>
+		<filename>images/bg.png</filename>
+		<filename>images/firstli.gif</filename>
+		<filename>images/indent1.gif</filename>
+		<filename>images/libg.jpg</filename>
+		<filename>images/mw_box_bl.png</filename>
+		<filename>images/mw_box_br.png</filename>
+		<filename>images/mw_box_tl.png</filename>
+		<filename>images/mw_box_tr.png</filename>
+		<filename>images/mw_footer_b.gif</filename>
+		<filename>images/mw_footer_b_l.gif</filename>
+		<filename>images/mw_footer_b_r.gif</filename>
+		<filename>images/mw_header_b.gif</filename>
+		<filename>images/mw_header_l_b.gif</filename>
+		<filename>images/mw_header_r_b.gif</filename>
+		<filename>images/mw_line_grey.png</filename>
+		<filename>images/mw_line_grey_bottom.png</filename>
+		<filename>images/mw_menu_cap_l.png</filename>
+		<filename>images/mw_menu_cap_r.png</filename>
+		<filename>images/mw_readon.gif</filename>
+		<filename>images/mw_shadow_l.gif</filename>
+		<filename>images/mw_shadow_r.gif</filename>
+		<filename>images/news_left_bg.gif</filename>
+		<filename>images/news_middle_bg.gif</filename>
+		<filename>images/news_right_bg.gif</filename>
+		<filename>images/spacer.png</filename>
+		<filename>images/star.gif</filename>
+		<filename>images/summer_background.jpg</filename>
+		<filename>favicon.ico</filename>		
+	</images>
+	<css>
+		<filename>css/curvy.css</filename>
+		<filename>css/editor.css</filename>
+		<filename>css/ie6.css</filename>
+		<filename>css/ie7.css</filename>
+		<filename>css/size.css</filename>
+		<filename>css/summer_bg.css</filename>
+		<filename>css/template.css</filename>
+		<filename>css/topmenu.css</filename>
+	</css>
+</mosinstall>
